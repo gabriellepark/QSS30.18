@@ -1,7 +1,8 @@
-# QSS30.18: Quantitative Applications to Peace and Justice Final Project Repository
+# QSS 30.18 Final Project: Influence of Conflict on the Spread of COVID-19
+
 
 **Winter 2024**
-Influence of Conflict on the Spread of COVID-19
+**QSS 30.18: Quantitative Applications to Peace and Justice**
 
 ## Project Overview
 This repository contains the code, data, and written paper for a final project in QSS 30.18——a course in the Quantitative Social Science Department at Dartmouth College, taught by Professor Elsa Voytas. This project researched how infectious diseases are affected by conflict and can be mitigated by health infrastructure, specifically investigating Covid-19 in the Middle East and North Africa (MENA) region.
