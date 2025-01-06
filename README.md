@@ -32,7 +32,6 @@ This project uses the following data sources:
   - Data from the WHO’s Global Health Observatory, specifically on the current health expenditure (CHE) as a percentage of GDP per capita for each country in the MENA region.
   - Full data can be accessed [here](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-health-expenditure-(che)-as-percentage-of-gross-domestic-product-(gdp)-(-)).
 
----
 
 ## Code
 
